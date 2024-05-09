@@ -1,5 +1,7 @@
-# Ex04 Places Around Me
-## Date: 
+Ex04 Places Around Me
+## Date: 9.5.24
+## NAME : SRINIVASAN V
+## REG NO : 212222043008
 
 ## AIM
 To develop a website to display details about the places around my house.
